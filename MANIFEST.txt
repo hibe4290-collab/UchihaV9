@@ -1,0 +1,19 @@
+
+WEBSITE CRAWLER MANIFEST
+========================
+
+URL gốc: https://uchihav6-chicuongnn.netlify.app
+Domain: uchihav6-chicuongnn.netlify.app
+Thời gian crawl: 2026-08-20 23:13:59
+
+Thống kê:
+- URLs thành công: 17
+- URLs thất bại: 0
+
+Cấu trúc thư mục:
+- html/      - Các file HTML
+- css/       - Các file CSS
+- js/        - Các file JavaScript
+- assets/    - Hình ảnh và tài nguyên khác
+
+URLs Thất bại:
